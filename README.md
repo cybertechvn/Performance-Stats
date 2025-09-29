@@ -1,8 +1,7 @@
 # Performance-Stats
 
 # Project URL
-[https://github.com/cybertechvn/Performance-Stats](https://github.com/cybertechvn/Performance-Stats)
-
+https://roadmap.sh/projects/server-stats
 # authorization
 chmod +x server-stats.sh
 

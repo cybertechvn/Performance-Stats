@@ -1,5 +1,7 @@
 # Performance-Stats
 
+# Project URL
+[https://github.com/cybertechvn/Performance-Stats](https://github.com/cybertechvn/Performance-Stats)
 
 # authorization
 chmod +x server-stats.sh
